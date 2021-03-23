@@ -14,7 +14,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Mobile Developer at <code><a href = "https://www.meliuz.com.br/inicio"> **Méliuz**</a></code> and Partner Front-end Developer at **Anyee**.
+- :computer: &nbsp; I'm currently working as a Mobile Developer at <code><a href = "https://www.meliuz.com.br/inicio"> **Méliuz**</a></code> and Partner Front-end Developer at <code><a href = "https://anyee.com.br/">**Anyee**</a></code>.
 - 🎓 &nbsp; Studying Computer Science at ICOMP/UFAM.
 - :flashlight: &nbsp; Always searching for something new to learn.
 
