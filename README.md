@@ -5,7 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-fernandes-de-melo-44614b185/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João%20Lucas-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:lucas.fernandes@icomp.com.ufam.edu.br">
+  <a href="mailto:lucas.fernandes@icomp.ufam.edu.br">
     <img 
        alt="Email" 
        src="https://img.shields.io/badge/Email-lucas.fernandes@icomp.com.ufam.edu.br-blue?style=flat-square&logo=gmail">
