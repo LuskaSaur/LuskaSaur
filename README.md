@@ -8,7 +8,7 @@
   <a href="mailto:lucas.fernandes@icomp.ufam.edu.br">
     <img 
        alt="Email" 
-       src="https://img.shields.io/badge/Email-lucas.fernandes@icomp.com.ufam.edu.br-blue?style=flat-square&logo=gmail">
+       src="https://img.shields.io/badge/Email-lucas.fernandes@icomp.ufam.edu.br-blue?style=flat-square&logo=gmail">
   </a>
 </p>
 
