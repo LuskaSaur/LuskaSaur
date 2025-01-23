@@ -14,7 +14,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Software Developer at <code><a href = "https://www.meliuz.com.br/inicio"> **Méliuz**</a></code>.
+- :computer: &nbsp; I'm currently working as a Software Developer at <code><a href = "https://www.jusbrasil.com.br/">**Jusbrasil**</a></code>.
 - 🎓 &nbsp; Bachelor's degree in Computer Science at ICOMP/UFAM.
 - :flashlight: &nbsp; Always searching for something new to learn.
 
