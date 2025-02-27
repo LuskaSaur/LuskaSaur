@@ -30,6 +30,11 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://www.scala-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
+<code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://vectorwiki.com/images/F79rZ__react-native.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></a></code>
+<code><a href="https://nestjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
+<code><a href="https://graphql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 
 #### 🌱 &nbsp; I’m currently learning
 
